@@ -1,7 +1,7 @@
 {
-  "name": "@hayes0724/shopify-cart-fetch",
+  "name": "shopify-cart",
   "version": "2.0.1",
-  "description": "Shopify Cart API with zero dependencies, TypeScript, lightweight and modular",
+  "description": "Shopify Cart API with zero dependencies, TypeScript",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "types": "types/index.es.d.ts",
@@ -12,11 +12,7 @@
   "author": "Eric Hayes",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hayes0724/shopify-cart-fetch.git"
-  },
-  "bugs": {
-    "url": "https://github.com/hayes0724/shopify-cart-fetch/issues"
+    "type": "git"
   },
   "scripts": {
     "test": "jest",
